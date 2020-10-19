@@ -1,4 +1,5 @@
-### Hi there 👋
+:smiling_face_with_three_hearts: Hey, Welcome to My Github Profile
+---
 
 <!--
 **arnpal961/arnpal961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=arnpal961&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnpal961&layout=compact&hide=jupyter%20notebook,html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
