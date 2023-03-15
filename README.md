@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/arnpal961) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arnpal/)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnpal961&layout=compact&hide=jupyter%20notebook,html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=arnpal961&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
