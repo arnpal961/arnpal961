@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=arnpal961&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnpal961&theme=transparent&border_radius=5.7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arnpal961&theme=dark&border_radius=5.7)](https://git.io/streak-stats)
 
 Programming Languages I know
 ---
